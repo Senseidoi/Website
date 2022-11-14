@@ -1,0 +1,7 @@
+/* Owner */
+	Developer: Senseidoi
+	Contact: nikobilger2000@gmail.com
+1
+/* SITE */
+	Language: English
+	Standards: HTML, CSS
